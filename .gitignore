@@ -1,0 +1,19 @@
+# Cloned Dear ImGui sources (build.ps1 fetches these)
+/imgui/
+
+# Build intermediates
+/build/
+
+# Compiled example/test artifacts
+*.obj
+*.exe
+*.dll
+*.ilk
+*.exp
+*.pdb
+vc*.pdb
+
+# Keep the shippable library output (dist/) committed so users get a
+# true zero-config drop-in without having to build. If you'd rather ship
+# it via GitHub Releases instead, uncomment:
+# /dist/
