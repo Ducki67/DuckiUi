@@ -1,8 +1,8 @@
 # Cloned Dear ImGui sources (build.ps1 fetches these)
-#/imgui/
+# /imgui/
 
 # Build intermediates
-/build/
+# /build/
 
 # Compiled example/test artifacts
 *.obj
